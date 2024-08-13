@@ -1,0 +1,5 @@
+.coverage
+coverage.xml
+.scannerwork
+htmlcov
+**.py[cod]
